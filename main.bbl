@@ -16,30 +16,5 @@
   {}
 \endgroup
 
-
-\refsection{0}
-  \datalist[entry]{none/global//global/global}
-    \entry{Beisert_2011}{article}{}
-      \list{publisher}{2}{%
-        {Springer Science}%
-        {Business Media {LLC}}%
-      }
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Letters in Mathematical Physics}
-      \field{month}{10}
-      \field{number}{1-3}
-      \field{title}{Review of {AdS}/{CFT} Integrability: An Overview}
-      \field{volume}{99}
-      \field{year}{2011}
-      \field{pages}{3\bibrangedash 32}
-      \range{pages}{30}
-      \verb{doi}
-      \verb 10.1007/s11005-011-0529-2
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
 \endinput
 
